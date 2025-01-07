@@ -25,7 +25,7 @@ In this section I will list my projects and briefly describe the technology stac
 
 ## Education
 University of California, Merced:
-Bacehlor of Science - BS, Computer Science and Engineering
+Bachelor of Science - BS, Computer Science and Engineering
 Sep 2022 - Dec 2024
 
 ## Contacts
