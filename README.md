@@ -9,7 +9,7 @@ My CV in [pdf]().
 This is a repository to showcase my skills, share projects, and track my progress in Database / Software Development topics.
 
 ## Table of Contents
-- [About]([https://github.com/](https://github.com/jacobmyung/Comp-Sci-Portfolio/blob/main/README.md#about))
+- [About](https://github.com/jacobmyung/Comp-Sci-Portfolio/blob/main/README.md#about)
 - [Portfolio Projects]()
   - C++ / C#
   - SQL
