@@ -12,11 +12,11 @@ This is a repository to showcase my skills, share projects, and track my progres
 - [About](https://github.com/jacobmyung/Comp-Sci-Portfolio/blob/main/README.md#about)
 - [Portfolio Projects](https://github.com/jacobmyung/Comp-Sci-Portfolio/blob/main/README.md#Portfolio-Projects)
   - C++ / C#
-    - [Dashboard Improvement](https://github.com/jacobmyung/Comp-Sci-Portfolio/blob/main/README.md#Dashboard-Improvement) [repo](https://github.com/jamesodanga2/CSE-120-Capstone-TID)
+    - [Dashboard Improvement](https://github.com/jacobmyung/Comp-Sci-Portfolio/blob/main/README.md#Dashboard-Improvement)
   - Python
-    - [L Game](https://github.com/jacobmyung/Comp-Sci-Portfolio/blob/main/README.md#L-game) [repo](https://github.com/kezutah/L-game)
+    - [L Game](https://github.com/jacobmyung/Comp-Sci-Portfolio/blob/main/README.md#L-game)
   - SQL
-    - [Warehouse Inventory Database](https://github.com/jacobmyung/Comp-Sci-Portfolio/blob/main/README.md#Warehouse-Inventory-Database) [repo](https://github.com/jacobmyung/CSE-111-Databases-Project)
+    - [Warehouse Inventory Database](https://github.com/jacobmyung/Comp-Sci-Portfolio/blob/main/README.md#Warehouse-Inventory-Database)
  
 - [Education](https://github.com/jacobmyung/Comp-Sci-Portfolio/blob/main/README.md#education)
 - [Contact](https://github.com/jacobmyung/Comp-Sci-Portfolio/blob/main/README.md#contacts)
@@ -35,6 +35,8 @@ In this section I will list my projects and briefly describe the technology stac
 **Results:** Successfully developed and deployed the dashboards into production environment.
 
 ### L Game
+**Code:** Here is the [source code](https://github.com/jacobmyung/L-game/blob/main/L-game.py) in its repository.
+
 **Goal:** Implement a playable human VS AI mode of the [L game](https://en.wikipedia.org/wiki/L_game). The AI would have to use AI game search algorithms and respond with an appropraite move.
 
 **Description:** The project focused on implementing efficient calls to search many gamestates using evaluation functions and pruning algorithms.
@@ -44,6 +46,8 @@ In this section I will list my projects and briefly describe the technology stac
 **Technology:** Python
 
 ### Warehouse Inventory Database
+**Code:** Here is the [source code](https://github.com/jacobmyung/CSE-111-Databases-Project/blob/main/project.py) in its repository.
+
 **Goal:** Create a inventory and ordering UI for both warehouse workers and customers, respectively.
 
 **Description:** This project created a database where users would either log in as either a worker or a customer. Customers would be able to create orders and purchase items from the catalogue, and these orders would then decrement the inventory for those products. Workers were able to mark orders as completed or canceled, increase the inventory count of items, and see a map of where a specific item is located in the warehouse.
