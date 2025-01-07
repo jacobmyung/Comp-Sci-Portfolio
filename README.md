@@ -24,7 +24,33 @@ This is a repository to showcase my skills, share projects, and track my progres
 In this section I will list my projects and briefly describe the technology stack used to solve cases.
 
 ### Dashboard Improvement
-**Goal:** To develop 
+**Goal:** To develop and update four dashboards/graphs for Turlock Irrigation District (TID). Also needed to be developed in specific packages and languages approved by TID.
+
+**Description:** The project focused on reading from TID's database, pulling the data to a REST API, then finally porting the data over to a visualization package, Grafana.
+
+**Skills:** Data analysis, data visualization, REST API
+
+**Technology:** C#, Python, MS SQL Server
+
+**Results:** Successfully developed and deployed the dashboards into production environment.
+
+### L Game
+**Goal:** Implement a playable human VS AI mode of the [L game](https://en.wikipedia.org/wiki/L_game). The AI would have to use AI game search algorithms and respond with an appropraite move.
+
+**Description:** The project focused on implementing efficient calls to search many gamestates using evaluation functions and pruning algorithms.
+
+**Skills:** Hashmaps, alpha-beta pruning, minimax, greedy search
+
+**Technology:** Python
+
+### Warehouse Inventory Database
+**Goal:** Create a inventory and ordering UI for both warehouse workers and customers, respectively.
+
+**Description:** This project created a database where users would either log in as either a worker or a customer. Customers would be able to create orders and purchase items from the catalogue, and these orders would then decrement the inventory for those products. Workers were able to mark orders as completed or canceled, increase the inventory count of items, and see a map of where a specific item is located in the warehouse.
+
+**Skills:** database creation, query management, updates, many-to-many relationships
+
+**Technology:** SQLite, Python
 
 ## Education
 University of California, Merced - Merced, CA:
