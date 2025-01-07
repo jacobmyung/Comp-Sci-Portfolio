@@ -12,11 +12,11 @@ This is a repository to showcase my skills, share projects, and track my progres
 - [About](https://github.com/jacobmyung/Comp-Sci-Portfolio/blob/main/README.md#about)
 - [Portfolio Projects](https://github.com/jacobmyung/Comp-Sci-Portfolio/blob/main/README.md#Portfolio-Projects)
   - C++ / C#
-    - [Dashboard Improvement](https://github.com/jamesodanga2/CSE-120-Capstone-TID)
+    - [Dashboard Improvement](https://github.com/jacobmyung/Comp-Sci-Portfolio/blob/main/README.md#Dashboard-Improvement) [repo](https://github.com/jamesodanga2/CSE-120-Capstone-TID)
   - Python
-    - [L Game](https://github.com/kezutah/L-game)
+    - [L Game](https://github.com/jacobmyung/Comp-Sci-Portfolio/blob/main/README.md#L-game) [repo](https://github.com/kezutah/L-game)
   - SQL
-    - [Warehouse Inventory Database](https://github.com/jacobmyung/CSE-111-Databases-Project)
+    - [Warehouse Inventory Database](https://github.com/jacobmyung/Comp-Sci-Portfolio/blob/main/README.md#Warehouse-Inventory-Database) [repo](https://github.com/jacobmyung/CSE-111-Databases-Project)
  
 - [Education](https://github.com/jacobmyung/Comp-Sci-Portfolio/blob/main/README.md#education)
 - [Contact](https://github.com/jacobmyung/Comp-Sci-Portfolio/blob/main/README.md#contacts)
