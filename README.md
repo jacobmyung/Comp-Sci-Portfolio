@@ -27,9 +27,13 @@ In this section I will list my projects and briefly describe the technology stac
 **Goal:** To develop 
 
 ## Education
-University of California, Merced:
+University of California, Merced - Merced, CA:
 Bachelor of Science - BS, Computer Science and Engineering
 Sep 2022 - Dec 2024
+
+Mt. San Antonio College - Walnut, CA:
+Associate in Science - AS, Computer Science
+Jun 2019 - Dec 2021
 
 ## Contacts
 - LinkedIn: [@jacobmyung](https://www.linkedin.com/in/jacob-myung/)
