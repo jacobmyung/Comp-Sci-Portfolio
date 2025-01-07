@@ -10,14 +10,15 @@ This is a repository to showcase my skills, share projects, and track my progres
 
 ## Table of Contents
 - [About](https://github.com/jacobmyung/Comp-Sci-Portfolio/blob/main/README.md#about)
-- [Portfolio Projects]()
+- [Portfolio Projects](https://github.com/jacobmyung/Comp-Sci-Portfolio/blob/main/README.md#Portfolio-Projects)
   - C++ / C#
+    - [Dashboard Improvement](https://github.com/jamesodanga2/CSE-120-Capstone-TID)
   - SQL
-    - [Warehouse Inventory Database]()
+    - [Warehouse Inventory Database](https://github.com/jacobmyung/CSE-111-Databases-Project)
   - Python
     - [L Game](https://github.com/kezutah/L-game)
  
-- [Education]()
+- [Education](https://github.com/jacobmyung/Comp-Sci-Portfolio/blob/main/README.md#education)
 - [Contact]()
 ## Portfolio Projects
 In this section I will list my projects and briefly describe the technology stack used to solve cases.
@@ -26,3 +27,7 @@ In this section I will list my projects and briefly describe the technology stac
 University of California, Merced:
 Bacehlor of Science - BS, Computer Science and Engineering
 Sep 2022 - Dec 2024
+
+## Contacts
+- LinkedIn: [@jacobmyung](https://www.linkedin.com/in/jacob-myung/)
+- Email: jacobmyung@gmail.com
