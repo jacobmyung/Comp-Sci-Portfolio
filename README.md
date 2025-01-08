@@ -41,9 +41,11 @@ In this section I will list my projects and briefly describe the technology stac
 
 **Description:** The project focused on implementing efficient calls to search many gamestates using evaluation functions and pruning algorithms.
 
-**Skills:** Hashmaps, alpha-beta pruning, minimax, greedy search
+**Skills:** Hashmaps, greedy search
 
 **Technology:** Python
+
+**Results:** Successfully developed and implemented greedy search by creating a evaluation function of each gamestate. Further work for implementing other algorithms such as minimax and alpha-beta pruning.
 
 ### Warehouse Inventory Database
 **Code:** Here is the [source code](https://github.com/jacobmyung/CSE-111-Databases-Project/blob/main/project.py) in its repository.
@@ -55,6 +57,8 @@ In this section I will list my projects and briefly describe the technology stac
 **Skills:** database creation, query management, updates, many-to-many relationships
 
 **Technology:** SQLite, Python
+
+**Results:** Successfully created a database with working inventory tracking. 9 different use cases for four different users were implemented.
 
 ## Education
 **University of California, Merced** - Merced, CA:
