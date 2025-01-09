@@ -1,8 +1,8 @@
 # Comp-Sci-Portfolio
 ## About
-Hi, I'm Jacob. I am a recent college Graduate with a Bachelors in Computer Science and Engineering. I am excited to work in collaborative, team environments to develop solutions towards our users' needs.
+Hi, I'm Jacob, a recent graduate with a Bachelor’s in Computer Science and Engineering. I am passionate about leveraging technology to create innovative solutions that meet user needs, and I thrive in collaborative team environments where ideas come to life.
 
-During my studies, I focused on database architecture and management, software development, and integrating AI algorithms and programs. Additionally, I would take the lead role of organizing team members schedules, distrubiting workloads, and following up on each members progress week by week.
+During my studies, I specialized in database architecture, software development, and integrating AI algorithms into practical applications. I also took on leadership roles, coordinating team schedules, delegating tasks, and ensuring consistent progress through effective follow-ups. These experiences have honed both my technical expertise and my ability to guide teams toward achieving their goals.
 
 My CV in [pdf]().
 
@@ -21,7 +21,6 @@ This is a repository to showcase my skills, share projects, and track my progres
 - [Education](https://github.com/jacobmyung/Comp-Sci-Portfolio/blob/main/README.md#education)
 - [Contact](https://github.com/jacobmyung/Comp-Sci-Portfolio/blob/main/README.md#contacts)
 ## Portfolio Projects
-In this section I will list my projects and briefly describe the technology stack used to solve cases.
 
 ### Dashboard Improvement
 **Goal:** To develop and update four dashboards/graphs for Turlock Irrigation District (TID). Also needed to be developed in specific packages and languages approved by TID.
@@ -64,12 +63,12 @@ In this section I will list my projects and briefly describe the technology stac
 **University of California, Merced** - Merced, CA:
 
 Bachelor of Science - BS, Computer Science and Engineering;
-Sep 2022 - Dec 2024
+2022 - 2024
 
 **Mt. San Antonio College** - Walnut, CA:
 
 Associate in Science - AS, Computer Science;
-Jun 2019 - Dec 2021
+2019 - 2021
 
 ## Contacts
 - LinkedIn: [@jacobmyung](https://www.linkedin.com/in/jacob-myung/)
