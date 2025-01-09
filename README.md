@@ -1,8 +1,8 @@
 # Comp-Sci-Portfolio
 ## About
-Hi, I'm Jacob. I am a recent college Graduate with a Bachelors in Computer Science and Engineering. I also have strong foundations in the natural sciences as a former Chemical Engineering student. I am excited to work in team environments to develop solutions towards user needs.
+Hi, I'm Jacob. I am a recent college Graduate with a Bachelors in Computer Science and Engineering. I am excited to work in collaborative, team environments to develop solutions towards our users' needs.
 
-During my studies, I focused on database architecture and management, as well as integrating and developing AI programs. Additionally, I would take the lead role of organizing team members schedules, distrubiting workloads, and following up on each members progress week by week.
+During my studies, I focused on database architecture and management, software development, and integrating AI algorithms and programs. Additionally, I would take the lead role of organizing team members schedules, distrubiting workloads, and following up on each members progress week by week.
 
 My CV in [pdf]().
 
